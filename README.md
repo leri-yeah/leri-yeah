@@ -1,6 +1,6 @@
 ## Hi there 👋
 This is a test repository.
-! [https://giphy.com/embed/TiU7R5IAoLdPpTIJgR]
+ [https://giphy.com/embed/TiU7R5IAoLdPpTIJgR]
 
 <!--
 **leri-yeah/leri-yeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
