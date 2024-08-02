@@ -1,5 +1,5 @@
 ## Hi there 👋
-## This is a test repository.
+This is a test repository.
 
 <!--
 **leri-yeah/leri-yeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
