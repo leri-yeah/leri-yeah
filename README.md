@@ -1,6 +1,7 @@
 ## Hi there 👋
 This is a test repository.
-![https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVydTVtOW1paWh5eHU0Nmg1M2Nkcm11dTJhZ29wcGswZ3Q2dTZnaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TiU7R5IAoLdPpTIJgR/giphy.gif]
+![דוכןשיפודן-standshippuden](https://github.com/user-attachments/assets/20d9b888-8a31-48d7-8ea4-972c09ea6677)
+
 
 <!--
 **leri-yeah/leri-yeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
